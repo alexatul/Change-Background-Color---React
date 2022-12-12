@@ -1,0 +1,19 @@
+.button-change button {
+  display: block;
+  background-color: rgb(26, 25, 25);
+  color: rgb(241, 92, 122);
+  margin: 0 auto;
+  margin-top: 200px;
+  font-size: 24px;
+  cursor: pointer;
+}
+.button-change button:hover {
+  background-color: rgb(65, 63, 63);
+}
+
+.ChangeColor .background.red-color {
+  background-color: blue;
+}
+.ChangeColor .background.yellow-color {
+  background-color: yellow;
+}
